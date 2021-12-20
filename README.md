@@ -7,4 +7,6 @@ In the experiments, we encode the high dimension images to 2 dimension, and then
 Then we read a paper which attached in **paper** folder, a method called **Robust Deep AutoEncoder**(RDAE), that can be used in dimension reduction and anomaly dection.
 
 # Experiments
+We compare the result of the dimension reduction results on three model, and the results as follows: 
+<img src="graph/pca.png">
 
