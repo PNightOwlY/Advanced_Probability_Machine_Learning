@@ -1,5 +1,11 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
 In **AddNoise** package we have a method for adding noise into our training data set.
 
 In **data** folder, the training data are placed inside, and there is a file called data_visualization.ipynb which you can take a look at the format of data and data distribution.
