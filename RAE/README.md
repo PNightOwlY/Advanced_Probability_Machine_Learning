@@ -1,7 +1,3 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-![image-20211019121535149](/Users/mac/Library/Application Support/typora-user-images/image-20211019121535149.png)
-
 In **AddNoise** package we have a method for adding noise into our training data set.
 
 In **data** folder, the training data are placed inside, and there is a file called data_visualization.ipynb which you can take a look at the format of data and data distribution.
@@ -10,7 +6,7 @@ In **model** package, there are three models including Deep Autoencoder, Variati
 
 In **outputs**, we have put all the result plots into that folder.
 
-In **shrink** package, it contains $$ l_1shrink $$ and $$l_{2,1}shrink$$ which is used to calculate proximal gradiant.
+In **shrink** package, it contains $l_1shrink$ and $l_{2,1}shrink$ which is used to calculate proximal gradiant.
 
  **ImShow.py** is used to plot the image in a standard way.
 
