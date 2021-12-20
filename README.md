@@ -20,3 +20,7 @@ We compare the result of the dimension reduction results on three model, and the
 
 ## Conclusion
 The results of the PCA and PPCA are similar, and it is also hard to split the data into different labels from the results graph. But VAE performs much better on split data into 2 dimensions since the boudaries between labels are very clear.
+
+## Generator
+Herein, we generate some images with temperature value 0.2.
+<img src="graph/generate_vae.png">
