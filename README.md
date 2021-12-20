@@ -38,9 +38,12 @@ Robust deep autoencoder is more scalable since we can train the model with noise
 We define the shrink methods for optimizing the l1 and l2,1 norm of S, as you can see in the top of two functions, and I think it is easy to follow, so I skip these two parts, and we have a training method to train our model with input data and optimizer. We also create a function to add noise to training data X. To visualize the anomaly detection, we transform the sparse S to label and calculate the corresponding criteria to judge the performance of the model.
 ## Denoising
 <img src='graph/denoising.png'>
+
 ## Anomaly dection
 <img src='graph/anomaly1.png' width='400px'>
+Here we can see the number circled are outliers.
 <img src='graph/anomaly2.png' >
+The outlier numbers decrease when we increase the values of the lambda.
 
 ## References
 <a id="1">[1]</a> 
