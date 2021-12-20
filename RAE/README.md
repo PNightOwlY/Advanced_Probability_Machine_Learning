@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ![image-20211019121535149](/Users/mac/Library/Application Support/typora-user-images/image-20211019121535149.png)
 
 In **AddNoise** package we have a method for adding noise into our training data set.
@@ -18,6 +20,6 @@ In **shrink** package, it contains $$ l_1shrink $$ and $$l_{2,1}shrink$$ which i
 
 **RAE_l21_Instance_Detection.ipynb** shows how RAE performs on Instance detection by tuning the hyperparameters.
 
-![](http://latex.codecogs.com/gif.latex?\\\tf_{t,d}=1+log(tf_{t,d}\))
+<img src='http://latex.codecogs.com/svg.latex?R_i=\frac{P_{i_{0}}-P_{i_{m}}}{\sum_{i=0}^{n}(P_{i_{0}}-P_{i_{m}})}'/>
 
 
