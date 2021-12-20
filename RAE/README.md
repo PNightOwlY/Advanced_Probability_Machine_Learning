@@ -8,7 +8,7 @@ In **model** package, there are three models including Deep Autoencoder, Variati
 
 In **outputs**, we have put all the result plots into that folder.
 
-In **shrink** package, it contains $$l_1shrink$$ and $$l_{2,1}shrink$$ which is used to calculate proximal gradiant.
+In **shrink** package, it contains $$ l_1shrink $$ and $$l_{2,1}shrink$$ which is used to calculate proximal gradiant.
 
  **ImShow.py** is used to plot the image in a standard way.
 
