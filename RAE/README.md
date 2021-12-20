@@ -18,5 +18,6 @@ In **shrink** package, it contains $$ l_1shrink $$ and $$l_{2,1}shrink$$ which i
 
 **RAE_l21_Instance_Detection.ipynb** shows how RAE performs on Instance detection by tuning the hyperparameters.
 
+![](http://latex.codecogs.com/gif.latex?\\\tf_{t,d}=1+log(tf_{t,d}\))
 
 
