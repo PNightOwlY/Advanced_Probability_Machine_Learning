@@ -8,5 +8,10 @@ Then we read a paper which attached in **paper** folder, a method called **Robus
 
 # Experiments
 We compare the result of the dimension reduction results on three model, and the results as follows: 
+## PCA(2 dims) 
 <img src="graph/pca.png">
+## PPCA(2 dims)
+<img src="graph/ppca.png">
+## VAE(2 dims)
+<img src="graph/vae.png">
 
