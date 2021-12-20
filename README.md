@@ -24,3 +24,10 @@ The results of the PCA and PPCA are similar, and it is also hard to split the da
 ## Generator
 Herein, we generate some images with temperature value 0.2.
 <img src="graph/generate_vae.png">
+
+## More advanced tech
+### RDAE
+RDAE can be viewed as replacing the nuclear norm with a non-linear autoencoder.
+○ The lowest-rank matrix L (i.e. no noise in L) has the minimum of nuclear norm.
+○ The lowest-rank matrix L (i.e. no noise in L) could be reconstructed perfectly via autoencoder.
+○ Replace the nuclear norm with a non-linear autoencoder.
