@@ -41,6 +41,6 @@ We define the shrink methods for optimizing the l1 and l2,1 norm of S, as you ca
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+Zhou, Chong and Paffenroth, Randy C (2017). 
+Anomaly detection with robust deep autoencoders. 
+Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,665--674.
