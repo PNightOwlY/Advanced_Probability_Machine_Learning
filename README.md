@@ -40,7 +40,9 @@ We define the shrink methods for optimizing the l1 and l2,1 norm of S, as you ca
 <img src='graph/denoising.png'>
 
 ## Anomaly dection
+<div align='center'>
 <img src='graph/anomaly1.png' width='400px'>
+  </div>
 Here we can see the number circled are outliers.
 <img src='graph/anomaly2.png' >
 The outlier numbers decrease when we increase the values of the lambda.
