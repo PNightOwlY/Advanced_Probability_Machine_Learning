@@ -149,7 +149,7 @@ torch==1.7.0
 torchvision==0.8.1
 tornado==6.0.4
 traitlets==4.3.3
-Twisted==18.9.0
+Twisted==22.2.0
 typing-extensions==3.7.4.3
 tzlocal @ file:///home/conda/feedstock_root/build_artifacts/tzlocal_1588939190034/work
 update==0.0.1
